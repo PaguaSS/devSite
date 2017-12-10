@@ -10,9 +10,9 @@ class DATABASE_CONFIG {
 		'datasource' => 'Database/Mysql',
 		'persistent' => false,
 		'host' => 'localhost',
-		'login' => 'u991974310_rlpag',
-		'password' => 'xtycuvWV23',
-		'database' => 'u991974310_devsi',
+		'login' => 'root',
+		'password' => '',
+		'database' => 'devsite',
 		'prefix' => ''
 	);
 
