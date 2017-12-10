@@ -1,0 +1,9 @@
+2017-12-09 00:24:33 Error: [MissingControllerException] Controller class Robots.txtController could not be found.
+Exception Attributes: array (
+  'class' => 'Robots.txtController',
+  'plugin' => NULL,
+)
+Request URL: /robots.txt
+Stack Trace:
+#0 /home/u991974310/public_html/app/webroot/index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
